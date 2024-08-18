@@ -14669,5 +14669,9 @@ fieldset:disabled .btn {
     fill: #ffffff;
 }
 
+.table-responsive {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
 
 /*# sourceMappingURL=main.css.map */
